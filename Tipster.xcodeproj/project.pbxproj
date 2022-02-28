@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E13957C927CC753F00766474 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13957C827CC753F00766474 /* MovieDetailsViewController.swift */; };
 		E176938D27C1982E00DBFC46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E176938C27C1982E00DBFC46 /* AppDelegate.swift */; };
 		E176938F27C1982E00DBFC46 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E176938E27C1982E00DBFC46 /* SceneDelegate.swift */; };
 		E176939127C1982E00DBFC46 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E176939027C1982E00DBFC46 /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E13957C827CC753F00766474 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		E176938927C1982E00DBFC46 /* Tipster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E176938C27C1982E00DBFC46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E176938E27C1982E00DBFC46 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				E176938E27C1982E00DBFC46 /* SceneDelegate.swift */,
 				E176939027C1982E00DBFC46 /* ViewController.swift */,
 				E176939227C1982E00DBFC46 /* Main.storyboard */,
+				E13957C827CC753F00766474 /* MovieDetailsViewController.swift */,
 				E176939527C1982F00DBFC46 /* Assets.xcassets */,
 				E176939727C1982F00DBFC46 /* LaunchScreen.storyboard */,
 				E176939A27C1982F00DBFC46 /* Info.plist */,
@@ -269,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E13957C927CC753F00766474 /* MovieDetailsViewController.swift in Sources */,
 				E176939127C1982E00DBFC46 /* ViewController.swift in Sources */,
 				E176938D27C1982E00DBFC46 /* AppDelegate.swift in Sources */,
 				E17693BD27C1E8DE00DBFC46 /* MovieCell.swift in Sources */,
